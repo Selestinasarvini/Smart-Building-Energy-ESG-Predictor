@@ -142,6 +142,3 @@ Gradient Boosting works well for structured tabular data because it:
 
 ---
 
-## Installation
-
-Repository Link: https://github.com/zodiac9363/Smart-Building-Energy-ESG-Predictor
